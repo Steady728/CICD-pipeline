@@ -1,5 +1,5 @@
-resource "aws_security_group" "demo-sg" {
-  name        = "demo-sg"
+resource "aws_security_group" "sg-068111c7c4a3992d2" {
+  name        = "sg-068111c7c4a3992d2"
   description = "allow ssh and http traffic"
 
   ingress {
